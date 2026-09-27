@@ -9,47 +9,53 @@ Multi-Agent AI Systems · Business Operating Systems · CRM Architecture · Auto
 
 ## Featured Case Studies
 
-### 1. CW Real Estate — The Operating System
-Lagos multi-branch brokerage | CRM Automation Architect & Zoho One Administrator | 2025–Present
+### 1. Scout — An AI Operator Inside a Working Real Estate Business (Sep 2026)
+CW Real Estate | Lagos multi-branch brokerage
 
-**Problem**  
-Too much software, none of it fully used. Agents avoided the CRM (100+ fields to log one lead). Data was rotting. Reports could not be trusted.
+**The situation**  
+Sales, rentals, short-stays, Abuja desk and diaspora desk. Work was spread across CRM, spreadsheets, website enquiries, email, help desk and ads. No single place to answer “how many leads this month and what happened to them?”
 
-**What I built**  
-- Phone-first CRM capture (3 fields instead of 100+)
-- Autonomous enquiry engine: website enquiry → matched, deduplicated, assigned lead + properties + buyer email in ~2 minutes
-- Data rescue: 1,098 stalled leads recovered + 683 properties migrated & de-duplicated
-- Self-healing data hygiene + multi-party deal model
-- Production multi-agent system (OpenClaw + Claude) running operations unattended
-- 24/7 cloud AI assistant answering from live CRM data
-- Support tickets from Instagram/Facebook → CRM leads with one tap
-- Offer letters & invoices moved to secure web app
+**What was built**  
+Scout is an AI operator that works the way a staff member works: it reads the live systems, makes the change, writes down what it changed, and reports. It is not a chatbot bolted onto a product.
 
-**Result**  
-One clean system the team actually opens. Leads captured go up. Data stays trustworthy. Software bill goes down (~$16k/yr consolidated).
+It built and now runs the CW console at leads.cwlagos.com — one front door for every role:
+- Agents, support, heads, directors and owner each see only their own work
+- Leads, contacts, deals and clients read/written straight into the CRM (book of record)
+- Follow-ups with a one-hour first-response clock and alerts
+- Academy (327 registrations) from registration through certificates
+- Instagram conversations → support tickets → CRM leads in one click
+- Newsletters, referrals, offer letters, document library, ads recon
+- Nightly full CRM export (16,264 records across 15 modules on 23 Sep, zero failures) + morning integrity check
+
+**How it works**  
+Three habits: Sweep first, ask second. Do everything that does not need a person. Write down every change (before/after log).
+
+**What made it trustworthy**  
+Failure handling from real incidents: shared access token, safe retries, body-based write validation, paginated-read safety caps, backup pointer only moves on complete nights.
+
+**Where it stands**  
+Live and in daily use. The operator and the record of what it did are the asset. The pattern is portable — systems underneath can be swapped.
 
 ---
 
-### 2. CW Real Estate — Multi-Agent AI Systems
+### 2. CW Real Estate — The Operating System
+CRM Automation Architect & Zoho One Administrator | 2025–Present
 
-Designed and operate a production multi-agent system (OpenClaw) that:
-- Owns enquiry processing, matching, routing and nurturing with zero human in the loop
-- Carries persistent memory across sessions
-- Reconciles listings between Airtable and Zoho on schedule
-- Powers a cloud-hosted assistant that answers live questions 24/7
-
-Operational work now scales with systems, not headcount.
+- Phone-first CRM capture (3 fields instead of 100+)
+- Autonomous enquiry engine (~2 min website enquiry → matched/routed lead)
+- 1,098 stalled leads recovered + 683 properties migrated & de-duplicated
+- Production multi-agent system (OpenClaw + Claude)
+- 24/7 cloud AI assistant from live CRM data
+- ~$16k/yr under-used software consolidated
 
 ---
 
 ### 3. INTLAB (Italy) — International Multilingual CRM
-Remote contract | Director of CRM & Automation Infrastructure | Jan–Mar 2026
+Director of CRM & Automation Infrastructure | Jan–Mar 2026 (remote)
 
-Built the entire Zoho One CRM backbone from zero for a social app pre-launch:
-- Dedicated modules for affiliates, creators and fans
-- WATI chatbots in 5 languages (English, French, Portuguese, Spanish, Italian)
-- Meta Ads Instant Forms → real-time CRM capture
-- 3,000+ early registrations converted in a three-month window
+- Zoho One from zero for three audiences
+- 5-language WATI chatbots + Meta Ads Instant Forms
+- 3,000+ early registrations converted in three months
 
 ---
 
@@ -65,9 +71,9 @@ the1942brand@gmail.com
 +234 807 050 6737  
 youngfelofficial@gmail.com  
 
-Full case study PDFs available in [Google Drive](https://drive.google.com/drive/folders/1zTkKdWXnBD_cJZP5FEjjRUX-bjijTYHN)  
+Full case study PDFs (including Scout) in [Google Drive](https://drive.google.com/drive/folders/1zTkKdWXnBD_cJZP5FEjjRUX-bjijTYHN)  
 Open to remote and international engagements.
 
 ---
 
-*Not a specialist who hands you more screens. The person who makes the screens disappear.*
+*Not a specialist who hands you more screens. The person who makes the screens disappear. The operator and the record of what it did are the asset.*
