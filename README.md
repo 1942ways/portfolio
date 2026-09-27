@@ -5,6 +5,11 @@ Multi-Agent AI Systems · Business Operating Systems · CRM Architecture · Auto
 
 I turn a drawer full of software into one system the team actually opens.
 
+**One-link PDF portfolio (CV + case studies + certifications):**  
+[Download Felix_Edache_Portfolio.pdf](https://drive.google.com/file/d/1a4aWBdAATJA9lKM6R1VYA9Bquu41rDXJ/view)
+
+All case study PDFs: [Google Drive folder](https://drive.google.com/drive/folders/1zTkKdWXnBD_cJZP5FEjjRUX-bjijTYHN)
+
 ---
 
 ## Case Studies
@@ -14,7 +19,7 @@ CW Real Estate | Sep 2026
 
 An AI operator that works the way a staff member works: it reads the live systems, makes the change, writes down what it changed, and reports. Not a chatbot bolted onto a product.
 
-It runs the company console at leads.cwlagos.com - one front door for every role. Agents, support, heads, directors and owner each see only their own work. Leads, contacts, deals and clients stay in sync with the CRM. Follow-ups carry a one-hour clock. Instagram conversations become support tickets and then CRM leads in one click. The Academy (327 registrations) runs from registration through certificates. Nightly full CRM export (16,264 records across 15 modules on 23 Sep, zero failures) plus a morning integrity check.
+It runs the company console at leads.cwlagos.com - one front door used daily by employees, agents and admins. Agents, support, heads, directors and owner each see only their own work. Leads, contacts, deals and clients stay in sync with the CRM. Follow-ups carry a one-hour clock. Instagram conversations become support tickets and then CRM leads in one click. The Academy (327 registrations) runs from registration through certificates. Nightly full CRM export (16,264 records across 15 modules on 23 Sep, zero failures) plus a morning integrity check.
 
 Three operating habits: Sweep first, ask second. Do everything that does not need a person. Write down every change.
 
@@ -62,6 +67,18 @@ Built the Zoho One backbone from zero with dedicated modules for affiliates, cre
 
 ---
 
+## Selected Certifications
+
+- Microsoft Azure Essentials Professional Certificate (Microsoft & LinkedIn) - May 2026
+- Compliance and Regulations for Generative AI (LinkedIn) - May 2026
+- Email Marketing (HubSpot Academy) - Mar 2026, valid to Apr 2028
+- Leadership Foundations: Leadership Styles and Models (LinkedIn) - Apr 2025
+- Business Analysis & Process Management (Coursera Project Network) - Apr 2025
+- The Arts and Science of Relationships (University of Toronto) - Feb 2024
+- How to increase engagement to Instagram Business profile (Coursera) - Nov 2022
+
+---
+
 ## Stack
 
 Zoho One (CRM, Desk, Deluge, COQL, REST v8) · AWS (Lambda, S3, EventBridge, SES) · Anthropic Claude / Bedrock · OpenClaw multi-agent · Airtable · ActiveCampaign · Python · PWAs · Telegram Bot API · WATI · Meta Ads Instant Forms
@@ -74,7 +91,6 @@ the1942brand@gmail.com
 +234 807 050 6737  
 youngfelofficial@gmail.com  
 
-Full case study PDFs in [Google Drive](https://drive.google.com/drive/folders/1zTkKdWXnBD_cJZP5FEjjRUX-bjijTYHN)  
 Open to remote and international engagements.
 
 *Not a specialist who hands you more screens. The person who makes the screens disappear. The operator and the record of what it did are the asset.*
