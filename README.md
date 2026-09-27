@@ -1,4 +1,4 @@
-# Felix Edache — Portfolio & Case Studies
+# Felix Edache - Portfolio & Case Studies
 
 **AI Systems Architect & Technical Lead**  
 Multi-Agent AI Systems · Business Operating Systems · CRM Architecture · Automation & Integrations
@@ -9,7 +9,7 @@ Multi-Agent AI Systems · Business Operating Systems · CRM Architecture · Auto
 
 ## Featured Case Studies
 
-### 1. Scout — An AI Operator Inside a Working Real Estate Business (Sep 2026)
+### 1. Scout - An AI Operator Inside a Working Real Estate Business (Sep 2026)
 CW Real Estate | Lagos multi-branch brokerage
 
 **The situation**  
@@ -18,7 +18,7 @@ Sales, rentals, short-stays, Abuja desk and diaspora desk. Work was spread acros
 **What was built**  
 Scout is an AI operator that works the way a staff member works: it reads the live systems, makes the change, writes down what it changed, and reports. It is not a chatbot bolted onto a product.
 
-It built and now runs the CW console at leads.cwlagos.com — one front door for every role:
+It built and now runs the CW console at leads.cwlagos.com - one front door for every role:
 - Agents, support, heads, directors and owner each see only their own work
 - Leads, contacts, deals and clients read/written straight into the CRM (book of record)
 - Follow-ups with a one-hour first-response clock and alerts
@@ -34,12 +34,12 @@ Three habits: Sweep first, ask second. Do everything that does not need a person
 Failure handling from real incidents: shared access token, safe retries, body-based write validation, paginated-read safety caps, backup pointer only moves on complete nights.
 
 **Where it stands**  
-Live and in daily use. The operator and the record of what it did are the asset. The pattern is portable — systems underneath can be swapped.
+Live and in daily use. The operator and the record of what it did are the asset. The pattern is portable - systems underneath can be swapped.
 
 ---
 
-### 2. CW Real Estate — The Operating System
-CRM Automation Architect & Zoho One Administrator | 2025–Present
+### 2. CW Real Estate - The Operating System
+CRM Automation Architect & Zoho One Administrator | 2025-Present
 
 - Phone-first CRM capture (3 fields instead of 100+)
 - Autonomous enquiry engine (~2 min website enquiry → matched/routed lead)
@@ -50,8 +50,8 @@ CRM Automation Architect & Zoho One Administrator | 2025–Present
 
 ---
 
-### 3. INTLAB (Italy) — International Multilingual CRM
-Director of CRM & Automation Infrastructure | Jan–Mar 2026 (remote)
+### 3. INTLAB (Italy) - International Multilingual CRM
+Director of CRM & Automation Infrastructure | Jan-Mar 2026 (remote)
 
 - Zoho One from zero for three audiences
 - 5-language WATI chatbots + Meta Ads Instant Forms
